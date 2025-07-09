@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rolex Cosmograph Daytona",
+    "marca": "Rolex",
+    "precio": 35000,
+    "material": "Oro blanco de 18 quilates",
+    "movimiento": "Automático, calibre 4130",
+    "descripcion": "Ícono del cronógrafo deportivo, ideal para alta precisión y diseño atemporal.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggKez0TiLimCOC-94pelu5BJd66fHhYArPg&s",
+    "color": "Oro blanco",
+    "correa": "Cuarzo"
+  },
+  {
+    "id": 2,
+    "nombre": "Patek Philippe Nautilus 5811/1G",
+    "marca": "Patek Philippe",
+    "precio": 70000,
+    "material": "Oro blanco",
+    "movimiento": "Automático, calibre 26‑330 S C",
+    "descripcion": "Un reloj deportivo de lujo, altamente codiciado y elegante.",
+    "imagen": "https://media.rolex.com/image/upload/q_auto:eco/f_auto/t_v7-grid/c_limit,w_3840/v1/catalogue/2025/upright-bba-with-shadow/m126613lb-0002",
+    "color": "Oro blanco",
+    "correa": "Cuero"
+  },
+  {
+    "id": 3,
+    "nombre": "Audemars Piguet Royal Oak",
+    "marca": "Audemars Piguet",
+    "precio": 60000,
+    "material": "Acero inoxidable",
+    "movimiento": "Automático, calibre 4302",
+    "descripcion": "Un clásico moderno que combina diseño industrial con alta relojería.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggKez0TiLimCOC-94pelu5BJd66fHhYArPg&s",
+    "color": "Acero",
+    "correa": "Acero inoxidable"
+  },
+  {
+    "id": 4,
+    "nombre": "Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin",
+    "marca": "Vacheron Constantin",
+    "precio": 100000,
+    "material": "Oro rosa de 18 quilates",
+    "movimiento": "Automático, calibre 1120 QP/1",
+    "descripcion": "Un reloj delgado y complejo con calendario perpetuo y elegancia suprema.",
+    "imagen": "https://media.rolex.com/image/upload/q_auto:eco/f_auto/t_v7-grid/c_limit,w_3840/v1/catalogue/2025/upright-bba-with-shadow/m126613lb-0002",
+    "color": "Oro rosa",
+    "correa": "Cuero"
+  },
+  {
+    "id": 5,
+    "nombre": "Richard Mille RM 11-03",
+    "marca": "Richard Mille",
+    "precio": 200000,
+    "material": "Titanio grado 5",
+    "movimiento": "Automático, cronógrafo flyback",
+    "descripcion": "Alta ingeniería, estética futurista y performance sin igual.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggKez0TiLimCOC-94pelu5BJd66fHhYArPg&s",
+    "color": "Titanio",
+    "correa": "Caucho"
+  },
+  {
+    "id": 6,
+    "nombre": "A. Lange & Söhne Datograph Up/Down",
+    "marca": "A. Lange & Söhne",
+    "precio": 90000,
+    "material": "Platino",
+    "movimiento": "Manual, calibre L951.6",
+    "descripcion": "Precisión alemana con acabado artesanal sublime.",
+    "imagen": "https://media.rolex.com/image/upload/q_auto:eco/f_auto/t_v7-grid/c_limit,w_3840/v1/catalogue/2025/upright-bba-with-shadow/m126613lb-0002",
+    "color": "Platino",
+    "correa": "Cuero"
+  },
+  {
+    "id": 7,
+    "nombre": "Greubel Forsey Double Tourbillon 30° Technique",
+    "marca": "Greubel Forsey",
+    "precio": 500000,
+    "material": "Oro blanco",
+    "movimiento": "Manual, doble tourbillon",
+    "descripcion": "Obra maestra mecánica para coleccionistas extremos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggKez0TiLimCOC-94pelu5BJd66fHhYArPg&s",
+    "color": "Oro blanco",
+    "correa": "Caucho"
+  },
+  {
+    "id": 8,
+    "nombre": "Hublot Big Bang Unico Sapphire",
+    "marca": "Hublot",
+    "precio": 60000,
+    "material": "Caja de zafiro transparente",
+    "movimiento": "Automático, UNICO HUB1242",
+    "descripcion": "Diseño vanguardista con materiales poco convencionales.",
+    "imagen": "https://media.rolex.com/image/upload/q_auto:eco/f_auto/t_v7-grid/c_limit,w_3840/v1/catalogue/2025/upright-bba-with-shadow/m126613lb-0002",
+    "color": "Zafiro",
+    "correa": "Caucho"
+  },
+  {
+    "id": 9,
+    "nombre": "Jaeger-LeCoultre Master Ultra Thin Moon",
+    "marca": "Jaeger-LeCoultre",
+    "precio": 14000,
+    "material": "Oro rosa de 18 quilates",
+    "movimiento": "Automático, calibre 925",
+    "descripcion": "Minimalismo elegante con complicación de fase lunar.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggKez0TiLimCOC-94pelu5BJd66fHhYArPg&s",
+    "color": "Oro rosa",
+    "correa": "Cuero"
+  },
+  {
+    "id": 10,
+    "nombre": "Omega Speedmaster Moonwatch Professional",
+    "marca": "Omega",
+    "precio": 7500,
+    "material": "Acero inoxidable",
+    "movimiento": "Manual, calibre 3861",
+    "descripcion": "El icónico reloj que viajó a la Luna, leyenda viva.",
+    "imagen": "https://media.rolex.com/image/upload/q_auto:eco/f_auto/t_v7-grid/c_limit,w_3840/v1/catalogue/2025/upright-bba-with-shadow/m126613lb-0002",
+    "color": "Acero",
+    "correa": "Acero inoxidable"
+  }
+]
