@@ -1,18 +1,15 @@
 'use client'
 
-import { useSearchParams } from 'next/navigation'
 import Image from 'next/image'
 import relojes from '../../../data/relojes.json'
 import { useCarrito } from '../../../context/CarritoContext'
 import { useState } from 'react'
 
-export default function ProductoDetallePage() {
-  const searchParams = useSearchParams()
-  const id = searchParams.get('id')
+export default function ProductoDetallePage({ params }) {
+  const id = params.id
   const reloj = relojes.find(r => r.id === parseInt(id))
 
   const { agregarAlCarrito } = useCarrito()
-
   const [agregado, setAgregado] = useState(false)
 
   if (!reloj) {
@@ -76,9 +73,7 @@ export default function ProductoDetallePage() {
           <button
             onClick={handleAgregarAlCarrito}
             className={`bg-black text-white px-8 py-3 rounded-full text-lg transition duration-300 shadow-lg cursor-pointer ${
-              agregado
-                ? 'bg-green-500 text-white'
-                : 'hover:bg-gray-800'
+              agregado ? 'bg-green-500 text-white' : 'hover:bg-gray-800'
             }`}
           >
             {agregado ? (
