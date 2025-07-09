@@ -3,7 +3,7 @@
 import { useSearchParams } from 'next/navigation'
 import Image from 'next/image'
 import relojes from '../../data/relojes.json'
-import { useCarrito } from '../../context/CarritoContext'
+import { useCarrito } from '../../../context/CarritoContext'
 import { useState } from 'react'
 
 export default function ProductoDetallePage() {
